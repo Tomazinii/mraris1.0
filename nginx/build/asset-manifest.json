@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15385f91.css",
+    "main.js": "/static/js/main.b05c2cfe.js",
+    "static/media/aristotle.jpg": "/static/media/aristotle.f77d24fce3e9a99e037f.jpg",
+    "static/media/background.png": "/static/media/background.0cca050064b9320d4678.png",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/expired.jpg": "/static/media/expired.ed5718044908f9331eaf.jpg",
+    "static/media/content.png": "/static/media/content.5bd912e5211a7c4958c3.png",
+    "static/media/tournament.png": "/static/media/tournament.48c48e10cfa244ace5bb.png",
+    "static/media/games.png": "/static/media/games.76ef19118e5e5a1b81b1.png",
+    "static/media/practitioner.png": "/static/media/practitioner.e4604c9611689015fef3.png",
+    "static/media/exercises.png": "/static/media/exercises.6253da98cb448938cd94.png",
+    "static/media/challenge.png": "/static/media/challenge.4edc600a103b0b40fbf2.png",
+    "index.html": "/index.html",
+    "main.15385f91.css.map": "/static/css/main.15385f91.css.map",
+    "main.b05c2cfe.js.map": "/static/js/main.b05c2cfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15385f91.css",
+    "static/js/main.b05c2cfe.js"
+  ]
+}
